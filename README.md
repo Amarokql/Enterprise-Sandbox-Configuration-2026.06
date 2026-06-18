@@ -1,7 +1,7 @@
 # Enterprise Multi-Site Network Architecture Simulation
 ## Comprehensive Cisco Packet Tracer Deployment (Core Services, Dynamic Routing & AAA Security)
 
-[![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-v8.x+-005A9C?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![Network topology](./networkTopology)
 [![Network-Routing](https://img.shields.io/badge/Routing-EIGRP%20%7C%20OSPF%20%7C%20RIPv2-success?style=flat-square)](#)
 [![Security-AAA](https://img.shields.io/badge/Security-AAA%20%7C%20RADIUS%20%7C%20SSHv2-red?style=flat-square)](#)
 
