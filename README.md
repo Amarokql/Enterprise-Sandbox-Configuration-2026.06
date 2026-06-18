@@ -4,7 +4,7 @@
 [![Network-Routing](https://img.shields.io/badge/Routing-EIGRP-success?style=flat-square)](#)
 [![Security-AAA](https://img.shields.io/badge/Security-AAA%20%7C%20RADIUS%20%7C%20SSHv2-red?style=flat-square)](#)
 
-![Network topology](./networkTopology.png)
+![Network topology](./assets/networkTopology.png)
 
 ## 📌 Project Overview
 This repository contains a production-grade enterprise network simulation developed inside **Cisco Packet Tracer**. The project models a highly resilient, secure, and scalable multi-site enterprise infrastructure. It demonstrates the practical implementation of end-to-end network engineering paradigms—ranging from foundational Layer 2 virtualization and multi-protocol dynamic routing to distributed infrastructure services and advanced cryptographic security blueprints (AAA/RADIUS framework).
